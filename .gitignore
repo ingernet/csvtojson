@@ -1,0 +1,6 @@
+.~lock*
+.idea
+.DS_Store
+bluepos-singlequotes-newlines.csv
+bluepos-comments.csv
+importable.json
